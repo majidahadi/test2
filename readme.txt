@@ -1,1 +1,2 @@
 salaam
+salaam aleikum
